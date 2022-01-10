@@ -1,25 +1,25 @@
-# Title
+# Chatbot Project
 
-Simple (or clever and funny?) description
+A simple chatbot that says jokes.
 
 ## Table of Contents
 
 - [Background](#background)
 
-- [Install](#install)
+- [Install/Replit](#https://replit.com/@JoshuaCipriano/Chatbot-JC#READ.md)
 
-- [Usage](#usage)
+- [Usage/Github](#https://github.com)
 
 ## Background
 
-This is why this application exists.
+A robot that tells you corny jokes.
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
+Have somewhere were you can import this python code that will allow it to run.
 
 ## Usage
 
-These are the steps to use the application or interact with it.
+Run the code first then reply to the robot's question/jokes. Certain replies give out different feedback.
 
 ### Any optional sections

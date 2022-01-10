@@ -24,9 +24,12 @@ Run the code first then reply to the robot's question/jokes. Certain replies giv
 
 ### Any optional sections
 
+Hello
+
 ## Test Plan
 
 To test the project:
 
 1.  Run the test
 2.  Check the results
+3.  Test
